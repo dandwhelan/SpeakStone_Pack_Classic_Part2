@@ -2391,6 +2391,7 @@ SpeakStoneSoundLengths_Pack_Classic_Part2 = {
     ["5881_completion.ogg"] = 8.42,
     ["5881_description.ogg"] = 25.54,
     ["5881_progress.ogg"] = 2.64,
+    ["5892_completion.ogg"] = 5.02,
     ["5901_completion.ogg"] = 6.27,
     ["5901_description.ogg"] = 26.04,
     ["5901_progress.ogg"] = 11.82,
